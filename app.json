@@ -1,0 +1,6 @@
+{
+    "name": "Book Sarch Engine",
+    "description": "Book Sarch Engine App, Week 21 Homework",
+    "repository": "https://github.com/tracye1083/Book-Search-Engine",
+    "keywords": ["node", "express", "mongoDB", "GraphQL", "MERN", "React"]
+  }
