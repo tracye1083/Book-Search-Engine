@@ -18,8 +18,6 @@ This app is used to track the books the user would like to read in a clean and o
 
 - [Links](#links)
 
-- [Screenshot(s)](#screenshots)
-
 - [Questions](#questions)
 
 - [License](#license)
@@ -45,14 +43,7 @@ This app is used to track the books the user would like to read in a clean and o
 ## Links
 
 - [GitHub Repository](https://github.com/tracye1083/Book-Search-Engine)
-- [Deployed Application](URL GOES HERE)
-
----
-
-## Screenshot(s)
-
-![Landing Page](IMG GOES HERE)
-![Landing Page](IMG GOES HERE)
+- [Deployed Application](https://a-book-search-engine.herokuapp.com/)
 
 ---
 
